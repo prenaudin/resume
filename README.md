@@ -16,45 +16,68 @@ Feel free to contact me on Twitter via [@prenaudin](https://www.twitter.com/pren
 ## Azendoo
 **Software Engineer (2011 - current)**
 
-[Azendoo](http://www.azendoo.com) is an online social productivity solution. You can manage projects with tasks, messages, direct messages and documents on the web, desktop, iOS or Android. I started at Azendoo as a frontend developer in 2011, and became lead developer in 2014.
+Azendoo is an online social productivity solution. You can manage projects with tasks, messages, direct messages and documents on the web, desktop, iOS or Android. I started at Azendoo as a frontend developer in 2011, and became lead developer in 2014.
 
-**Code** My first mission was to transition from a Ruby on Rails/MongoDB application to a client version of the web app based on Backbone.js consuming a JSON API built with Rails. After building the MVP, we launched the first version out of beta in 2012. In 2015, I was part of the build of the direct messages feature: I changed the frontend to use React.js and Flux, with tests. I've also participated in the development of the following features and elements: timeline, navigation & frame, user administration, payment process, search, notifications and analytics.
-
-**Product & Design** Azendoo's designers used Sketch and hosted files on Dropbox. Design reviews were done with Invision. I helped elaborate roadmaps to anticipate forthcoming features and give feedback on them.
-
-**Team** As the team grew, my Azendoo colleagues and I took active steps to better structure our development process: Git flow branching model, Git commitizen for commit messages, CI to continuously test and deploy our code, code reviews and QA.
-
-**Blog & website** After a first version on Wordpress, I set up a Node.js-based blog with Ghost for Azendoo. The website was built with Ruby on Rails.
+[http://www.azendoo.com](http://www.azendoo.com)
 
 Skills: Ruby on Rails, React.js, Javascript, Node.js, HTML/CSS, Git, Tests
 
+**Code**
+
+My first mission was to transition from a Ruby on Rails/MongoDB application to a client version of the web app based on Backbone.js consuming a JSON API built with Rails. After building the MVP, we launched the first version out of beta in 2012. In 2015, I was part of the build of the direct messages feature: I changed the frontend to use React.js and Flux, with tests. I've also participated in the development of the following features and elements: timeline, navigation & frame, user administration, payment process, search, notifications and analytics.
+
+**Product & Design**
+
+Azendoo's designers used Sketch and hosted files on Dropbox. Design reviews were done with Invision. I helped elaborate roadmaps to anticipate forthcoming features and give feedback on them.
+
+**Team**
+
+As the team grew, my Azendoo colleagues and I took active steps to better structure our development process: Git flow branching model, Git commitizen for commit messages, CI to continuously test and deploy our code, code reviews and QA.
+
+**Blog & website**
+
+After a first version on Wordpress, I set up a Node.js-based blog with Ghost for Azendoo. The website was built with Ruby on Rails.
+
 
 ## Muxu•Muxu
+
 **Developer (2015 - current)**
 
-[Muxu•Muxu](http://www.muxumuxu.com) is a passionate tech crew based in sunny Bordeaux. We are building side
+Muxu•Muxu is a passionate tech crew based in sunny Bordeaux. We are building side
 projects for real life. We also love to retreat for week-ends/bootcamps together and work hard on the Internet :)
 
+[https://www.muxumuxu.com](https://www.muxumuxu.com)
+
 **Checklist**
+
 (Work in progress) Checklists as a service: run a quality checklist over time and ensure your quality control. We use Rails 5 API / React.js & Redux / React Native and have done some expirements with PouchDB and Hoodie too.
 
 **Drubbler**
-Drubbbler helps you schedule your shots on Dribbble. Started by Luc Chaissac and Charley David, I lent a hand to rewrite the frontend with React.js and Flux. [See more](https://www.drubbbler.com/)
+
+Drubbbler helps you schedule your shots on Dribbble. Started by Luc Chaissac and Charley David, I lent a hand to rewrite the frontend with React.js and Flux.
+
+[https://www.drubbbler.com/](https://www.drubbbler.com/)
 
 **Papier**
-Started by Luc Chaissac and Charley David, I helped by adding checkboxes and lists to the editor. [See more](https://getpapier.com/)
+
+Started by Luc Chaissac and Charley David, I helped by adding checkboxes and lists to the editor.
+
+[https://getpapier.com/](https://getpapier.com/)
 
 
 ## Publications
 
-- **How to use Immutable.js Records with React and Redux** on [Medium](https://medium.com/@pierrerenaudin/immutable-record-react-redux-99f389ed676) (2016)
+- Article **How to use Immutable.js Records with React and Redux** on [Medium](https://medium.com/@pierrerenaudin/immutable-record-react-redux-99f389ed676) (2016)
+- Open Source **Normalizing JSON API response** (Work in Progress) on [Github](https://github.com/prenaudin/normalize-json-api) (2016)
 - Talks at Epitech for Tech Hub about **Git/CI/Monitoring/Team organization** (2016)
  
-Previous talks (maybe outdated or in French):
+Previous talks:
 
-- Talk at Bdx.io about **Manage your CSS** on [Speakerdeck](https://speakerdeck.com/prenaudin/bdx-dot-io-maitriser-son-style-css) (2014)
-- Talk at BordeauxJS about **HTML5 for mobile** on [Speakerdeck](https://speakerdeck.com/prenaudin/developpement-mobile-html5) (2013)
-- Talk at Xebia for Product Tank about **User Experience at Azendoo** on [Speakerdeck](https://speakerdeck.com/prenaudin/user-experience-at-azendoo) (2013)
+- Talk at Bdx.io about **Manage your CSS** (2014)
+- Talk at Developer Days for Orange about **Azendoo, our technology stack** (2011)
+- Talk at BordeauxJS about **HTML5 for mobile** (2013)
+- Talk at Xebia for Product Tank about **User Experience at Azendoo** (2013)
+- Talk at Developer Days for Orange about **Voice services in a web browser** (2011)
 
 ## Hobbies
 
@@ -80,6 +103,7 @@ I fell in love with programming in my early years, at around 13 years old. I hac
 ## Previous experiences
 
 ### Orange
+
 **Software Engineer (2011 - 10 months)**
 
 - Developed a GWT application to create voice services in a web browser;
@@ -89,6 +113,7 @@ I fell in love with programming in my early years, at around 13 years old. I hac
 Skills: GWT, Java, XML, Web services, HTML5, Javascript.
 
 ### KeepAlert for Systonic
+
 **Software Engineer (2010 - 5 months)**
 
 - Built an algorithm to track the online reputation of a brand;
@@ -98,6 +123,7 @@ Skills: GWT, Java, XML, Web services, HTML5, Javascript.
 Skills: Java, J2E, Spring, Hibernate, HTML/CSS.
 
 ### Bouygues Construction for AEI Junior Enterprise 
+
 **Freelance (2010 - 6 months)**
 
 - Developed a web application to organize resources across multiple construction sites;
@@ -105,14 +131,17 @@ Skills: Java, J2E, Spring, Hibernate, HTML/CSS.
 
 Skills: PHP, MySQL, jQuery, HTML/CSS.
 
+
 ## Education
 
 ### ENSEIRB-MATMECA, Bordeaux (2008-2011)
+
 Master of Computer Applications (MCA), Software engineering & Telecommunications.
 
 Awarded with distinction, with special recognition for finishing with the highest final mark.
 
 ### University of fundamental sciences, Poitiers (2006-2008)
+
 Mathematics, Physics, Mechanical Engineering, Computer Science, Algorithms.
 
 Successfully completed a two-year intensive maths, physics and engineering course at the University of Fundamental and Applied Sciences in Poitiers, France. This was in preparation for selective entrance examination to French engineering schools. 
