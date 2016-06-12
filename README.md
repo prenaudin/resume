@@ -20,8 +20,6 @@ Azendoo is an online social productivity solution. You can manage projects with 
 
 [http://www.azendoo.com](http://www.azendoo.com)
 
-Skills: Ruby on Rails, React.js, Javascript, Node.js, HTML/CSS, Git, Tests
-
 **Code**
 
 My first mission was to transition from a Ruby on Rails/MongoDB application to a client version of the web app based on Backbone.js consuming a JSON API built with Rails. After building the MVP, we launched the first version out of beta in 2012. In 2015, I was part of the build of the direct messages feature: I changed the frontend to use React.js and Flux, with tests. I've also participated in the development of the following features and elements: timeline, navigation & frame, user administration, payment process, search, notifications and analytics.
@@ -38,6 +36,7 @@ As the team grew, my Azendoo colleagues and I took active steps to better struct
 
 After a first version on Wordpress, I set up a Node.js-based blog with Ghost for Azendoo. The website was built with Ruby on Rails.
 
+Skills: Ruby on Rails, React.js, Javascript, Node.js, HTML/CSS, Git, Tests
 
 ## Muxu•Muxu
 
