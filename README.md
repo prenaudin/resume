@@ -54,11 +54,16 @@ projects for real life. We also love to retreat for week-ends/bootcamps together
 
 **Drubbler**
 
-Drubbbler helps you schedule your shots on Dribbble. Started by Luc Chaissac and Charley David, I lent a hand to rewrite the frontend with React.js and Flux.
+Drubbbler helps you easily schedule Dribbble shots and gain visibility. 
+In a few words, it's the Buffer of Dribbble.
+
+Started by Luc Chaissac and Charley David, I lent a hand to rewrite the frontend with React.js and Flux.
 
 [https://www.drubbbler.com/](https://www.drubbbler.com/)
 
 **Papier**
+
+Papier extension for Chrome, just open a new tab and trap your best thoughts. They'll be backed up directly to Chrome: no accounts, no syncing ;)
 
 Started by Luc Chaissac and Charley David, I helped by adding checkboxes and lists to the editor.
 
