@@ -72,7 +72,8 @@ Started by Luc Chaissac and Charley David, I helped by adding checkboxes and lis
 ## Publications
 
 - Article **How to use Immutable.js Records with React and Redux** on [Medium](https://medium.com/@pierrerenaudin/immutable-record-react-redux-99f389ed676) (2016)
-- Open Source **Normalizing JSON API response** (Work in Progress) on [Github](https://github.com/prenaudin/normalize-json-api) (2016)
+- Open Source, contributed to atom/language-coffee-script **Fix regexp to detect backticks** on [Github](https://github.com/atom/language-coffee-script/pull/51) (2015)
+- Open Source, created **Normalizing JSON API response** (Work in Progress) on [Github](https://github.com/prenaudin/normalize-json-api) (2016)
 - Talks at Epitech for Tech Hub about **Git/CI/Monitoring/Team organization** (2016)
  
 Previous talks:
